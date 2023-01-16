@@ -23,7 +23,10 @@ public class PanelDibujo extends JPanel {
        // g.drawLine(150,10,110,120);
         //g.drawLine(10,150,50,60);
         g.drawLine(120,60,155,150);
-
+         /*g.drawLine(20,20,20,100);*/
+        /*g.drawLine(20,20,50,70);*/
+        /*g.drawLine(50,75,80,20);*/
+        /*g.drawLine(80,20,80,100);*/
       ;
     }
 
